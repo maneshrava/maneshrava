@@ -1,0 +1,28 @@
+<svg width="780" height="180" viewBox="0 0 780 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="stroke3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#1E3A8A" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="180" rx="18" fill="url(#cardBg3)"/>
+  <rect x="14" y="14" width="752" height="152" rx="14" fill="white" opacity="0.04" stroke="url(#stroke3)" stroke-dasharray="6 6"/>
+
+  <g transform="translate(36,50)">
+    <circle cx="20" cy="20" r="18" stroke="#3B82F6" stroke-width="2.4" fill="none"/>
+    <path d="M20,11 v9 l6,6" stroke="#7DD3FC" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+
+  <text x="100" y="66" font-family="Verdana, sans-serif" font-size="19" font-weight="700" fill="#E0F2FE">Future Projects</text>
+  <text x="100" y="94" font-family="Verdana, sans-serif" font-size="13.5" fill="#93C5FD">New ideas in ML, cybersecurity, and full-stack development &#8212; coming soon.</text>
+
+  <g fill="#7DD3FC">
+    <circle cx="700" cy="90" r="3"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="90" r="3"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.2s" repeatCount="indefinite"/></circle>
+    <circle cx="740" cy="90" r="3"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

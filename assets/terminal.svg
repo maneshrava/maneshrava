@@ -1,0 +1,69 @@
+<svg width="820" height="380" viewBox="0 0 820 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <filter id="termGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect x="10" y="10" width="800" height="360" rx="18" fill="url(#termBg)" stroke="#3B82F6" stroke-opacity="0.35"/>
+  <rect x="10" y="10" width="800" height="360" rx="18" fill="#38BDF8" opacity="0.06" filter="url(#termGlow)"/>
+
+  <!-- title bar -->
+  <rect x="10" y="10" width="800" height="42" rx="18" fill="#0F172A"/>
+  <rect x="10" y="34" width="800" height="18" fill="#0F172A"/>
+  <circle cx="38" cy="31" r="7" fill="#EF4444" opacity="0.8"/>
+  <circle cx="62" cy="31" r="7" fill="#F59E0B" opacity="0.8"/>
+  <circle cx="86" cy="31" r="7" fill="#22C55E" opacity="0.8"/>
+  <text x="410" y="36" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC" opacity="0.7">shravani@dev &#8212; zsh</text>
+
+  <!-- body -->
+  <g font-family="Consolas, monospace" font-size="18" fill="#7DD3FC">
+    <text x="34" y="95" opacity="0">
+      <tspan fill="#38BDF8">&#10095;</tspan> whoami
+      <animate attributeName="opacity" values="0;1" begin="0.2s" dur="0.4s" fill="freeze"/>
+    </text>
+    <text x="34" y="128" fill="#E0F2FE" opacity="0">
+      Shravani Mane
+      <animate attributeName="opacity" values="0;1" begin="0.9s" dur="0.4s" fill="freeze"/>
+    </text>
+
+    <text x="34" y="168" opacity="0">
+      <tspan fill="#38BDF8">&#10095;</tspan> current_focus --list
+      <animate attributeName="opacity" values="0;1" begin="1.6s" dur="0.4s" fill="freeze"/>
+    </text>
+    <text x="54" y="198" fill="#E0F2FE" opacity="0">
+      Java &#183; DSA &#183; Machine Learning &#183; Cybersecurity
+      <animate attributeName="opacity" values="0;1" begin="2.3s" dur="0.4s" fill="freeze"/>
+    </text>
+
+    <text x="34" y="238" opacity="0">
+      <tspan fill="#38BDF8">&#10095;</tspan> status --current
+      <animate attributeName="opacity" values="0;1" begin="3.0s" dur="0.4s" fill="freeze"/>
+    </text>
+    <text x="54" y="268" fill="#7DD3FC" opacity="0">Building.</text>
+    <text x="54" y="268" fill="#7DD3FC" opacity="0">
+      Building.
+      <animate attributeName="opacity" values="0;1" begin="3.7s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="54" y="296" fill="#7DD3FC" opacity="0">
+      Learning.
+      <animate attributeName="opacity" values="0;1" begin="4.1s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="54" y="324" fill="#7DD3FC" opacity="0">
+      Growing.
+      <animate attributeName="opacity" values="0;1" begin="4.5s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="34" y="356" opacity="0">
+      <tspan fill="#38BDF8">&#10095;</tspan>
+      <animate attributeName="opacity" values="0;1" begin="5.0s" dur="0.3s" fill="freeze"/>
+    </text>
+    <rect x="52" y="343" width="11" height="20" fill="#7DD3FC" opacity="0">
+      <animate attributeName="opacity" values="0;1;0;1" begin="5.0s" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="780" height="240" viewBox="0 0 780 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="stroke2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7DD3FC" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#1E3A8A" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="barGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <filter id="pBlur2"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+
+  <rect width="780" height="240" rx="18" fill="url(#cardBg2)"/>
+  <circle cx="60" cy="210" r="110" fill="#38BDF8" opacity="0.25" filter="url(#pBlur2)"/>
+  <rect x="14" y="14" width="752" height="212" rx="14" fill="white" opacity="0.045" stroke="url(#stroke2)"/>
+
+  <!-- hanger icon -->
+  <g transform="translate(36,34)">
+    <circle cx="24" cy="8" r="4" stroke="#7DD3FC" stroke-width="2.4" fill="none"/>
+    <path d="M24,12 v6" stroke="#7DD3FC" stroke-width="2.4"/>
+    <path d="M24,18 L4,34 a4,4 0 0,0 3,7 h34 a4,4 0 0,0 3,-7 z" stroke="#7DD3FC" stroke-width="2.4" fill="none"/>
+  </g>
+
+  <text x="100" y="56" font-family="Verdana, sans-serif" font-size="20" font-weight="700" fill="#E0F2FE">Closetiq</text>
+  <rect x="680" y="34" width="80" height="24" rx="12" fill="#1E3A8A" opacity="0.6"/>
+  <text x="720" y="50" text-anchor="middle" font-family="Consolas, monospace" font-size="12" fill="#7DD3FC">Active</text>
+
+  <text x="100" y="82" font-family="Verdana, sans-serif" font-size="13.5" fill="#BAE6FD">A smart wardrobe / outfit organization application.</text>
+
+  <g font-family="Consolas, monospace" font-size="11.5">
+    <rect x="100" y="98" width="90" height="22" rx="11" fill="#1E3A8A" opacity="0.55"/>
+    <text x="145" y="113" text-anchor="middle" fill="#7DD3FC">JavaScript</text>
+    <rect x="198" y="98" width="60" height="22" rx="11" fill="#1E3A8A" opacity="0.55"/>
+    <text x="228" y="113" text-anchor="middle" fill="#7DD3FC">React</text>
+    <rect x="266" y="98" width="90" height="22" rx="11" fill="#1E3A8A" opacity="0.55"/>
+    <text x="311" y="113" text-anchor="middle" fill="#7DD3FC">MongoDB</text>
+  </g>
+
+  <text x="100" y="150" font-family="Verdana, sans-serif" font-size="12" fill="#7DD3FC">Progress</text>
+  <rect x="100" y="158" width="580" height="10" rx="5" fill="#0F172A" stroke="#1E3A8A"/>
+  <rect x="100" y="158" width="0" height="10" rx="5" fill="url(#barGrad2)">
+    <animate attributeName="width" from="0" to="255" dur="1.6s" fill="freeze"/>
+  </rect>
+  <text x="690" y="167" font-family="Consolas, monospace" font-size="12" fill="#E0F2FE">44%</text>
+
+  <text x="100" y="200" font-family="Consolas, monospace" font-size="12.5" fill="#7DD3FC">github.com/maneshrava/Closetiq &#8594;</text>
+</svg>

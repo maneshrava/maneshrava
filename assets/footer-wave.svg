@@ -1,0 +1,42 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#footBg)"/>
+
+  <g fill="#E0F2FE">
+    <circle cx="80" cy="30" r="1.6"><animate attributeName="opacity" values="1;0.1;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="55" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="20" r="1.8"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="60" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="25" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="50" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1020" cy="18" r="1.8"><animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="45" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <path fill="#1E3A8A" opacity="0.6">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0,140 C200,110 400,170 600,140 C800,110 1000,170 1200,140 L1200,220 L0,220 Z;
+              M0,155 C200,185 400,125 600,155 C800,185 1000,125 1200,155 L1200,220 L0,220 Z;
+              M0,140 C200,110 400,170 600,140 C800,110 1000,170 1200,140 L1200,220 L0,220 Z"/>
+  </path>
+  <path fill="#2563EB" opacity="0.55">
+    <animate attributeName="d" dur="5.5s" repeatCount="indefinite"
+      values="M0,165 C250,140 450,190 700,165 C900,145 1050,185 1200,165 L1200,220 L0,220 Z;
+              M0,178 C250,200 450,150 700,178 C900,200 1050,150 1200,178 L1200,220 L0,220 Z;
+              M0,165 C250,140 450,190 700,165 C900,145 1050,185 1200,165 L1200,220 L0,220 Z"/>
+  </path>
+  <path fill="#38BDF8" opacity="0.4">
+    <animate attributeName="d" dur="4.5s" repeatCount="indefinite"
+      values="M0,190 C300,175 500,200 800,188 C950,182 1100,198 1200,190 L1200,220 L0,220 Z;
+              M0,198 C300,205 500,182 800,200 C950,206 1100,188 1200,200 L1200,220 L0,220 Z;
+              M0,190 C300,175 500,200 800,188 C950,182 1100,198 1200,190 L1200,220 L0,220 Z"/>
+  </path>
+
+  <text x="600" y="100" text-anchor="middle" font-family="Consolas, monospace" font-size="16" fill="#7DD3FC" opacity="0.85">Thanks for stopping by &#8212; let's build something great.</text>
+  <text x="600" y="128" text-anchor="middle" font-family="Verdana, sans-serif" font-size="13" fill="#3B82F6">&#169; Shravani Mane</text>
+</svg>

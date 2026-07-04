@@ -1,0 +1,36 @@
+<svg width="820" height="260" viewBox="0 0 820 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aboutBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <filter id="blobBlur"><feGaussianBlur stdDeviation="30"/></filter>
+    <linearGradient id="panelStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7DD3FC" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#1E3A8A" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="820" height="260" rx="22" fill="url(#aboutBg)"/>
+  <circle cx="80" cy="40" r="120" fill="#2563EB" opacity="0.35" filter="url(#blobBlur)">
+    <animate attributeName="cx" values="80;140;80" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="230" r="130" fill="#38BDF8" opacity="0.3" filter="url(#blobBlur)">
+    <animate attributeName="cy" values="230;180;230" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="18" y="18" width="784" height="224" rx="18" fill="white" opacity="0.045" stroke="url(#panelStroke)" stroke-width="1.4"/>
+
+  <text x="46" y="62" font-family="Verdana, sans-serif" font-size="24" font-weight="700" fill="#E0F2FE">About Me</text>
+  <rect x="46" y="74" width="46" height="3" rx="1.5" fill="#38BDF8"/>
+
+  <g font-family="Verdana, sans-serif" font-size="15" fill="#BAE6FD">
+    <text x="46" y="112">B.Tech Computer Science student building at the intersection of</text>
+    <text x="46" y="136">software engineering, data, and security.</text>
+    <text x="46" y="170" fill="#7DD3FC">&#9670; Currently strengthening Java &amp; Data Structures / Algorithms</text>
+    <text x="46" y="196" fill="#7DD3FC">&#9670; Exploring Machine Learning and Data Science</text>
+    <text x="46" y="222" fill="#7DD3FC">&#9670; Building practical skills in Cybersecurity</text>
+  </g>
+
+  <text x="774" y="222" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#3B82F6" opacity="0.8">// building. learning. growing.</text>
+</svg>

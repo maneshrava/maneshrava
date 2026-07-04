@@ -1,0 +1,25 @@
+<svg width="820" height="180" viewBox="0 0 820 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="achBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="achStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7DD3FC" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#1E3A8A" stop-opacity="0.15"/>
+    </linearGradient>
+    <filter id="achBlur"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <rect width="820" height="180" rx="18" fill="url(#achBg)"/>
+  <circle cx="740" cy="20" r="90" fill="#38BDF8" opacity="0.25" filter="url(#achBlur)"/>
+  <rect x="14" y="14" width="792" height="152" rx="14" fill="white" opacity="0.045" stroke="url(#achStroke)"/>
+
+  <text x="40" y="52" font-family="Verdana, sans-serif" font-size="20" font-weight="700" fill="#E0F2FE">Achievements</text>
+  <rect x="40" y="64" width="46" height="3" rx="1.5" fill="#38BDF8"/>
+
+  <g font-family="Verdana, sans-serif" font-size="13.5" fill="#BAE6FD">
+    <text x="40" y="100">&#9670; Consistently building and shipping personal projects</text>
+    <text x="40" y="126">&#9670; Actively growing a GitHub contribution streak</text>
+    <text x="40" y="152">&#9670; Deepening cybersecurity &amp; ML fundamentals through applied practice</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="1200" height="60" viewBox="0 0 1200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#1E3A8A"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="80%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0"/>
+      <animate attributeName="x1" values="-20%;100%;-20%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="80%;200%;80%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,30 C150,5 300,55 450,30 C600,5 750,55 900,30 C1050,5 1150,45 1200,30"
+        stroke="url(#divGrad)" stroke-width="3" fill="none" stroke-linecap="round">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M0,30 C150,5 300,55 450,30 C600,5 750,55 900,30 C1050,5 1150,45 1200,30;
+              M0,32 C150,50 300,10 450,32 C600,50 750,10 900,32 C1050,50 1150,15 1200,32;
+              M0,30 C150,5 300,55 450,30 C600,5 750,55 900,30 C1050,5 1150,45 1200,30"/>
+  </path>
+  <circle r="4" fill="#7DD3FC">
+    <animateMotion dur="5s" repeatCount="indefinite"
+      path="M0,30 C150,5 300,55 450,30 C600,5 750,55 900,30 C1050,5 1150,45 1200,30"/>
+  </circle>
+</svg>
