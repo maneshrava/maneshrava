@@ -6,9 +6,12 @@
   1. Create a new PUBLIC repository named EXACTLY your GitHub username
      (e.g. if your username is "shravani-mane", repo must be "shravani-mane").
   2. Add this file as README.md in that repository.
-  3. Find & replace every "YOUR_USERNAME" below with your real GitHub username.
-  4. Replace every "#" placeholder link with your real profile links.
-  5. Replace project placeholders in the "Featured Projects" section.
+  3. GitHub username "maneshrava" is already filled in throughout this file.
+  4. LinkedIn and LeetCode links are filled in. Codeforces / HackerRank /
+     GeeksforGeeks / CodeChef / Portfolio are still "#" placeholders —
+     fill in the ones you use, or delete the badge lines you don't need.
+  5. Replace the PROJECT_ONE..FOUR placeholders in "Featured Projects" once
+     you're ready to feature specific repos.
   6. For the Snake animation, copy the GitHub Action workflow at the bottom
      of this file into .github/workflows/snake.yml in this same repo.
   7. For WakaTime/Spotify sections, follow the linked setup guides — they
@@ -21,16 +24,15 @@
 <!-- ANIMATED TOP BORDER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SHRAVANI%20MANE&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Building%20Tomorrow's%20Systems%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- REPLACE YOUR_USERNAME BELOW -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Shravani+Mane;Computer+Science+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Cybersecurity+Explorer+%F0%9F%94%90;Future+Software+Engineer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%90;Data+Science+Learner+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=TOTAL%20STARS&style=for-the-badge&color=00F5FF&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=maneshrava&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/maneshrava?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/maneshrava?label=TOTAL%20STARS&style=for-the-badge&color=00F5FF&labelColor=0d1117)
 
 </div>
 
@@ -58,7 +60,7 @@ whoami:
 - 🎯 Long-term goal: crack a **Software Engineering role at a top product company**
 - 👩‍💻 Leading as **Vice Chairperson**, driving tech culture & community initiatives
 - ⚡ Fun fact: I debug faster with coffee ☕ than without it
-- 📫 Reach me at: **your.email@example.com** <!-- REPLACE EMAIL -->
+- 📫 Reach me at: **shravanimane33@gmail.com**
 
 <br clear="right"/>
 
@@ -77,17 +79,19 @@ whoami:
 ### ⚙️ Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
 
-### 🗄️ Database
-![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+### 🗄️ Database & Data Management
+![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+`Data Management` · `Excel (AI-assisted analysis)`
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Git](https://skillicons.dev/icons?i=git) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 
-### 🤖 AI / ML
+### 🤖 AI / ML / Data Science *(exploring)*
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Pandas](https://skillicons.dev/icons?i=pandas) ![NumPy](https://skillicons.dev/icons?i=numpy)
 
-### 🔐 Cybersecurity
+### 🔐 Cybersecurity & Systems *(exploring)*
 ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash)
+`Computer Networks` · `Operating Systems`
 
 ### 🧰 Tools & IDEs
 ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=idea) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
@@ -131,17 +135,17 @@ graph LR
 
 <div align="center">
 
-<!-- REPLACE YOUR_USERNAME IN ALL STATS LINKS BELOW -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9"/>
+<!-- REPLACE maneshrava IN ALL STATS LINKS BELOW -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maneshrava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneshrava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5FF&ring=8A2BE2&fire=00F5FF&currStreakLabel=00F5FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maneshrava&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5FF&ring=8A2BE2&fire=00F5FF&currStreakLabel=00F5FF"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maneshrava&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=8A2BE2&point=ffffff"/>
 
 </div>
 
@@ -149,7 +153,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=maneshrava&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
 
 </div>
 
@@ -158,7 +162,7 @@ graph LR
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/maneshrava/maneshrava/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 <!--END_SECTION:snake-->
 
 </div>
@@ -172,15 +176,15 @@ graph LR
 <div align="center">
 
 <!-- REPLACE ALL "#" WITH YOUR REAL PROFILE LINKS -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/maneshrava)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani-mane-394a9232a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/beingshrawa/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](#)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=0d1117)](#)
-[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanimane33@gmail.com)
 
 </div>
 
@@ -192,16 +196,16 @@ graph LR
 
 <!-- REPLACE EACH CARD's REPO NAME WITH YOUR ACTUAL PROJECT REPO -->
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maneshrava&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maneshrava&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maneshrava&repo=PROJECT_THREE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_FOUR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maneshrava&repo=PROJECT_FOUR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2" />
 </a>
 
 </div>
@@ -372,14 +376,15 @@ shravani@dev-machine:~$ _
 
 <div align="center">
 
-**Java** `████████████████████░░░░` 82%
-**Python** `██████████████████████░░` 90%
-**C / C++** `██████████████████░░░░░░` 78%
-**JavaScript** `████████████░░░░░░░░░░░░` 55%
-**React / Node.js** `██████████░░░░░░░░░░░░░░` 45%
-**Machine Learning** `██████████████░░░░░░░░░░` 60%
-**Cybersecurity** `██████████░░░░░░░░░░░░░░` 42%
-**Cloud (AWS/Docker/K8s)** `████████░░░░░░░░░░░░░░░░` 35%
+**Java** `██████████████████░░░░░░` 75%
+**Python** `██████████████████░░░░░░` 75%
+**C / C++** `██████████████████░░░░░░` 75%
+**MySQL / Data Management** `████████████████░░░░░░░░` 65%
+**MongoDB** `██████████████░░░░░░░░░░` 55%
+**Excel (AI-assisted analysis)** `██████████████░░░░░░░░░░` 55%
+**Computer Networks & OS** `██████████████░░░░░░░░░░` 55%
+**Data Science / Machine Learning** `██████████░░░░░░░░░░░░░░` 40% *(learning by curiosity)*
+**Cybersecurity** `██████████░░░░░░░░░░░░░░` 40% *(learning by curiosity)*
 
 </div>
 
@@ -410,7 +415,7 @@ shravani@dev-machine:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=00F5FF&animation=fadeIn" width="100%"/>
 
-**⭐ From [YOUR_USERNAME](#) — if this profile inspired you, star a repo and say hi!**
+**⭐ From [maneshrava](https://github.com/maneshrava) — if this profile inspired you, star a repo and say hi!**
 
 </div>
 
