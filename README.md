@@ -1,124 +1,190 @@
 <div align="center">
 
-# 🌸 Hey, I'm Shravani Mane
+# ☠️ 𝕾𝖍𝖗𝖆𝖛𝖆𝖓𝖎 𝕸𝖆𝖓𝖊
 
-### 💻 CS Engineering Student | 🚀 Aspiring Software Engineer | 📊 Data Science Enthusiast | 🔐 Cybersecurity Explorer
+### *"The notebook doesn't create intelligence. It only reveals the one who holds it."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=F4A7B9&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Learning+One+Commit+at+a+Time+%F0%9F%8C%B8;Building+Projects+%E2%9C%A8;Always+Curious+%F0%9F%92%AB" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Java+%7C+DSA+%7C+Data+Science;Cybersecurity+Explorer;Building+Projects...;Learning+Every+Single+Day" />
+
+<img src="https://komarev.com/ghpvc/?username=maneshrava&style=for-the-badge&color=black"/>
 
 </div>
 
 ---
 
-## 🌷 About Me
+# 📖 About Me
 
 ```yaml
 Name: Shravani Mane
-Location: India 🇮🇳
-Education: B.Tech Computer Science
-Currently Learning:
-  - Java DSA
-  - Data Science & Machine Learning
-  - Full Stack Development
-  - Cybersecurity
 
-Goals:
-  - Crack Internship
-  - Become Placement Ready
-  - Build Amazing Projects
-  - Contribute to Open Source
+Username: maneshrava
+
+Education:
+   B.Tech Computer Science
+
+Currently Learning:
+   • Java DSA
+   • Data Science
+   • Machine Learning
+   • Cybersecurity
+   • Full Stack Development
+
+Current Goal:
+   Become Internship Ready
+   Crack Placements
+   Build Real Projects
+   Master Problem Solving
+
+Status:
+   "Every bug is another page in the notebook."
 ```
 
 ---
 
-## 🌸 Tech Stack
+# ⚔ Tech Arsenal
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-F9D5E5?style=for-the-badge&logo=openjdk&logoColor=black)
-![Python](https://img.shields.io/badge/Python-C7CEEA?style=for-the-badge&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/C-B5EAD7?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-E2F0CB?style=for-the-badge&logo=cplusplus&logoColor=black)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white)
+
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-FADADD?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS-CDE7F0?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF2B2?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-D6EAF8?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
+
+---
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-C8E6C9?style=for-the-badge&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express-F5F5F5?style=for-the-badge&logo=express&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-D0F0C0?style=for-the-badge&logo=mongodb&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-BDE0FE?style=for-the-badge&logo=mysql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-FADADD?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-D6EAF8?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-222222?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌼 GitHub Stats
+# ⚡ GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maneshrava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=maneshrava&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true"/>
-
-</p>
-
----
-
-## 🌸 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=F4A7B9&line=CDB4DB&point=FFB7C5&area=true&hide_border=true"/>
-
----
-
-## 🌺 Current Focus
-
-- 🌱 Mastering Java DSA
-- 🚀 Building Full Stack Projects
-- 📊 Exploring Machine Learning
-- 🔐 Learning Cybersecurity
-- 💻 Open Source Contributions
-
----
-
-## 🌷 Quote
-
-> *"Small progress every day leads to big results."*
-
----
-
-## 🌸 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8DFF5?style=for-the-badge&logo=linkedin&logoColor=black)](YOUR_LINKEDIN)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-D0F4DE?style=for-the-badge&logo=vercel&logoColor=black)](YOUR_PORTFOLIO)
-
-[![Email](https://img.shields.io/badge/Email-FADADD?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL)
+</div>
 
 ---
 
 <div align="center">
 
-### 🌸 Thanks for visiting! 🌸
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneshrava&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=F4A7B9"/>
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maneshrava&theme=github-dark&hide_border=true&bg_color=000000&color=FFFFFF&line=AAAAAA&point=FFFFFF&area=true"/>
+
+---
+
+# 🎯 Current Mission
+
+```text
+▣ Master Java DSA
+
+▣ Build Full Stack Applications
+
+▣ Learn Machine Learning
+
+▣ Explore Cybersecurity
+
+▣ Open Source Contributions
+
+▣ Crack Software Internship
+```
+
+---
+
+# 📚 Currently Reading
+
+```text
+Atomic Habits
+
+Design Patterns
+
+Operating Systems
+
+Computer Networks
+
+Data Structures & Algorithms
+```
+
+---
+
+# ⚔ Developer Philosophy
+
+> "Discipline defeats talent when talent refuses to learn."
+
+> "Every commit writes another page of my story."
+
+> "There is no shortcut to mastery."
+
+---
+
+# 🌑 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+<div align="center">
+
+## ☠️
+
+*"The world isn't perfect.*
+
+*But it's there for us, trying the best it can."*
+
+---
+
+### ⭐ Thanks for visiting my notebook.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&section=footer"/>
 
 </div>
