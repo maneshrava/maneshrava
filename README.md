@@ -7,7 +7,7 @@
   2. Drop this file in as README.md — GitHub will auto-render it on your profile.
   3. To activate the contribution snake animation, copy the workflow at the
      bottom of this file into .github/workflows/snake.yml in that same repo.
-  4. When you have real projects to show, replace the placeholders in the
+  4. When you have real projects to show, replace the placeholder in the
      "Featured Projects" section.
   ============================================================================
 -->
@@ -64,18 +64,6 @@ I'm a third-year Computer Science Engineering student at **SPIT Mumbai**, buildi
 
 ---
 
-## Current Focus
-
-```text
-DSA & Competitive Programming  ──▶  in progress
-Machine Learning & Data Science ──▶  learning by curiosity
-Cybersecurity fundamentals      ──▶  learning by curiosity
-Cloud Computing (AWS, Docker, K8s) ──▶  early stage
-Open Source contributions       ──▶  getting started
-```
-
----
-
 ## GitHub Statistics
 
 <div align="center">
@@ -88,14 +76,6 @@ Open Source contributions       ──▶  getting started
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneshrava&theme=default&hide_border=true&background=ffffff&stroke=1a2b4c&ring=2E5EAA&fire=2E5EAA&currStreakLabel=2E5EAA"/>
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maneshrava&theme=minimal&hide_border=true&bg_color=ffffff&color=1a2b4c&line=2E5EAA&point=333333"/>
-
-</div>
-
-### Trophies
-
-<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=maneshrava&theme=flat&no-frame=true&column=7&margin-w=12"/>
 
@@ -148,72 +128,7 @@ Open Source contributions       ──▶  getting started
 
 ---
 
-## Learning Timeline
-
-```text
-2023  Started B.E. in Computer Science Engineering, SPIT Mumbai
-2024  Built DSA foundations (Java, C++); explored MERN stack basics
-2025  Went deeper into Machine Learning & Data Science
-      Started exploring Cybersecurity fundamentals
-2026  Learning Cloud (AWS, Docker, Kubernetes) and contributing to Open Source
-      Targeting SDE roles at top product companies
-```
-
----
-
-## Skills Snapshot
-
-**Java** `██████████████████░░░░░░` 75%
-**Python** `██████████████████░░░░░░` 75%
-**C / C++** `██████████████████░░░░░░` 75%
-**MySQL / Data Management** `████████████████░░░░░░░░` 65%
-**MongoDB** `██████████████░░░░░░░░░░` 55%
-**Excel (AI-assisted analysis)** `██████████████░░░░░░░░░░` 55%
-**Computer Networks & OS** `██████████████░░░░░░░░░░` 55%
-**Data Science / Machine Learning** `██████████░░░░░░░░░░░░░░` 40% — learning by curiosity
-**Cybersecurity** `██████████░░░░░░░░░░░░░░` 40% — learning by curiosity
-
----
-
-## A Bit More About Me
-
-**Terminal Introduction**
-
-```bash
-$ whoami
-Shravani Mane
-
-$ cat about.txt
-Third-year CSE student at SPIT Mumbai | Building in AI, Data Science
-and Cybersecurity | Aspiring Software Engineer at a top product company
-
-$ ls ./interests
-artificial-intelligence  data-science  cybersecurity
-system-design  competitive-programming  open-source
-```
-
-**Daily Routine**
-
-```python
-routine = {
-    "morning": "Classes / coursework",
-    "afternoon": "DSA and competitive programming practice",
-    "evening": "Machine learning / cybersecurity study",
-    "night": "Side projects and reading",
-}
-```
-
-**Fun Facts**
-
-- Enjoys competitive programming as much as building full products
-- Reads technical documentation as a habit, not just when stuck
-- Believes in learning by building, not just tutorials
-
----
-
 <div align="center">
-
-*"Consistent, curious, and always building."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbe4ee,50:e8edf3,100:f5f7fa&height=120&section=footer" width="100%"/>
 
