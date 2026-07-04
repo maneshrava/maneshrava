@@ -56,7 +56,7 @@
 ### 🚀 Featured Project
 
 **[ClosetIQ](https://github.com/YOUR-USERNAME/closetIQ)** — *in progress*
-A personal project I'm building solo. *(Add a one-line description here of what ClosetIQ actually does — e.g. wardrobe organizer, outfit assistant, etc.)*
+A personal project I'm building solo. *(wardrobe organizer, outfit assistant, etc.)*
 
 ---
 
